@@ -1,0 +1,6 @@
+Senior Software Engineer Consultant and Engineering Manager with 8+ years of experience delivering secure,
+scalable web, mobile, and enterprise systems for government and private institutions and tourism clients.
+Leads the mobile platforms and the GSAS Talk web application of the Government Smart Administration
+System (GSAS), a government collaboration suite serving more than 180 government institutions, with
+GSAS Mobile reaching around 8,000 active users across Android and iOS. Combines hands-on engineering in
+Flutter/Dart, JavaScript/TypeScript, Node.js, ReactJS, and React Native

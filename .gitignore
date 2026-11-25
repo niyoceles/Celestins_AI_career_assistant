@@ -1,0 +1,47 @@
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Python bytecode and compiled extensions
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Python build and packaging output
+build/
+dist/
+*.egg-info/
+.eggs/
+wheels/
+pip-wheel-metadata/
+
+# Test, type-checker, and linter caches
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.tox/
+
+# Notebook and application caches
+.ipynb_checkpoints/
+.gradio/
+gradio_cached_examples/
+
+# Logs and local data exports
+*.log
+logs/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
